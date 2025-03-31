@@ -5,7 +5,7 @@
 🤝 Open to collaborate on innovative blockchain/web2 projects  
 
 ## 🌐 Socials:
-[![X](https://pbs.twimg.com/profile_images/1683899100922511378/5lY42eHs_400x400.jpg)](https://x.com/PraniketBodke1) 
+[![X](https://img.shields.io/twitter/follow/:PraniketBodke1)](https://x.com/PraniketBodke1)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@praniketbodke01)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/praniket01)
 
